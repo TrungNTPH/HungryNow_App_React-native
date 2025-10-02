@@ -12,7 +12,7 @@ Integrated Payment Gateways (ZaloPay, Payment Intent API).
 
 Managed Vouchers, Favorites, and Notifications (Push & In-app).
 
-Added Chat AI Assistant for food suggestions & customer support.
+Added Chat AI Assistant for food suggestions.
 
 Implemented Redux Toolkit for global state management.
 
