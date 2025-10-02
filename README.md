@@ -2,7 +2,7 @@ Run code: npm run android
 
 Developed Food Delivery App with clean architecture using React Native + TypeScript.
 
-Integrated Authentication (Email/Password, Phone, Firebase).
+Integrated Authentication (Email/Password, Firebase, Email).
 
 Implemented Food & Combo Management with categories, sizes, and ratings.
 
