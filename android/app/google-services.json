@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "657868242549",
+    "project_id": "hungrynowuser",
+    "storage_bucket": "hungrynowuser.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:657868242549:android:6030c8a7a712f19401c23c",
+        "android_client_info": {
+          "package_name": "com.hungrynowuser"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7l-ndaa26oBHdEuQeVtRdfC231kEmJwY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
