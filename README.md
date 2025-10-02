@@ -1,13 +1,25 @@
-Câu lệnh chạy: npm run android
+Run code: npm run android
 
-Câu lệnh cd vào clients/hungrynow: cd app/hungrynow
+Developed Food Delivery App with clean architecture using React Native + TypeScript.
 
-Câu lệnh cd vào server: cd server
+Integrated Authentication (Email/Password, Phone, Firebase).
 
-Câu lệnh chạy log: npm run log
+Implemented Food & Combo Management with categories, sizes, and ratings.
 
-Câu lệnh chạy doctor: npm run doctor
+Built Cart & Order System with checkout, invoices, and order tracking.
 
-Câu lệnh chỉnh lại format: npm run format
+Integrated Payment Gateways (ZaloPay, Payment Intent API).
 
-LƯU Ý: 1. Chạy npm run format mỗi khi code xong 2. Khi cài thư viện mới nhớ TẮT chạy app đi trước khi cài 3. Nhớ viết lên ghi chú những thư viện mới
+Managed Vouchers, Favorites, and Notifications (Push & In-app).
+
+Added Chat AI Assistant for food suggestions & customer support.
+
+Implemented Redux Toolkit for global state management.
+
+Designed Reusable UI Components and applied Global Styles/Theming.
+
+Applied Firebase Cloud Messaging (FCM) for real-time notifications.
+
+Built Multi-language & Onboarding flow for better UX.
+
+Structured code with modular APIs, models, navigators, and utils.
